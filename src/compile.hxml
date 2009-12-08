@@ -1,0 +1,8 @@
+-swf9 main.swf
+-main Main
+-cp ae
+-swf-header 200:300:40:2E3436
+
+
+# -php www
+# -main Main
